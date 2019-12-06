@@ -9,6 +9,6 @@ from attention_box import soft_attention
 
 # query is from embedding layer or lstm or cnn logit
 
-attention_output = soft_attention(query, attention_dim = 1, visualize_attention = True )
+attention_output = soft_attention(query, visualize_attention = True )
 
 ```
