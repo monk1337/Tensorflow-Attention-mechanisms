@@ -3,7 +3,7 @@ import tensorflow as tf
 class Attention_box(object):
 
     @staticmethod
-    def soft_attention(query, attention_size, visualize_attention = False):
+    def soft_attention(query, attention_dim, visualize_attention = False):
 
         # query is three dim tensor
         # batch x max sequence length x dim { if output is from bi-lstm }
