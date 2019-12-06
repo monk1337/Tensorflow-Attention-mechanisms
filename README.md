@@ -1,7 +1,3 @@
-# Tensorflow-Attention-mechanisms
-A Tensorflow module for many types of attention mechanisms
-
-
 <h1 align="center"> Attention Box</h1>
 <p align="center">  A tensorflow addon for many types of attention mechanisms</p>
 
