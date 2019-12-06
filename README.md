@@ -1,4 +1,4 @@
-<h1 align="center"> Attention-Box</h1>
+<h1 align="center"> Attention Box</h1>
 <p align="center">  A tensorflow addon for many types of attention mechanisms</p>
 
 
